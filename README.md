@@ -12,8 +12,8 @@ Setting up the system:
 -------------------------------
 Change following files first and replace them with your parameters:
 
-assets/configs/mysql.php
-assets/configs/page.php
+assets/configs/mysql.php,
+assets/configs/page.php,
 assets/configs/tokens.php -- The tool will not work without correct tokens.
 
 #2
