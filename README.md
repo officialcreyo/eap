@@ -2,9 +2,10 @@
 Esport Administration Panel
 
 This tool is a remnant of old times and is a simple administration tool for esport/sport organizations, including a file manager, match and event administration and press releases administration.
-It give you also the possibilty to give tasks to your users/staff members and announce new things on the dashboard.
+It gives you also the possibilty to assign tasks to your users/staff members and announce new things on the dashboard.
 
-WARNING: This tool is just a part of an old version of a project. The new, full version will released in 2019.
+WARNING: This tool is just a part of an old version of a project. There might be some bugs and technical issues.
+The new full version will be released in 2019.
 
 Setting up the system:
 
@@ -29,7 +30,7 @@ Go to http://[yoururl].[com]/index.php
 
 And log in with the following data:
 
-Username: admin
-Password: admin123
+- Username: admin
+- Password: admin123
 
 Have fun!
