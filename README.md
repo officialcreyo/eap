@@ -30,7 +30,7 @@ Go to http://[yoururl].[com]/index.php
 
 And log in with the following data:
 
-Username: admin
-Password: admin123
+- Username: admin
+- Password: admin123
 
 Have fun!
