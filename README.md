@@ -1,4 +1,4 @@
-# eap
+# Esport Administration Panel
 Esport Administration Panel
 
 This tool is a remnant of old times and is a simple administration tool for esport/sport organizations, including a file manager, match and event administration and press releases administration.
